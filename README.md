@@ -21,4 +21,18 @@ This project analyzes Amazon books data to explore pricing patterns, ratings, an
 
 ## 🚀 How to Run
 - Open the notebook in Google Colab or Jupyter Notebook  
-- Run all cells  
+- Run all cells
+
+- ## 📊 Results
+
+### 📅 Books Published per Year
+![Books per Year](images/books_published_per_year.png)
+
+### 🗓️ Books Published per Month
+![Books per Month](images/books_published_per_month.png)
+
+### 📚 Top 10 Most Frequent Books
+![Top Books](images/top_10_most_frequent_books.png)
+
+### 🛒 Top 5 Active Sellers
+![Top Sellers](images/top_5_active_sellers.png)
